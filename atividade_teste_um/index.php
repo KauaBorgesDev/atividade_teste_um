@@ -53,7 +53,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     </form>
     
 
-
+// Verifica se o formulário foi enviado
     
 </body>
 </html>
