@@ -52,5 +52,7 @@
 
     <a href="logout.php">Sair</a>
     
+    // Verifica se o usuário está logado
+    
 </body>
 </html>
