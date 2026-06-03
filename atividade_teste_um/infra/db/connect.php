@@ -14,3 +14,5 @@
     //     echo ("<p> BD: ok </p>");
     // }
 ?>
+
+// Inicia a sessão e conecta ao banco de dados
